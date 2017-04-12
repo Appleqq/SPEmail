@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.author             = { "ppan" => "820566997@qq.com" }
   s.platform     = :ios, "5.0"
   s.frameworks   = 'Foundation', 'UIKit'
-  s.source       = { :git => "https://github.com/Appleqq/SPEmail.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/Appleqq/SPEmail.git", :tag => "0.0.1" }
   s.source_files  = "SPEmail/**/*.{h,m}"
   s.requires_arc = true
 
