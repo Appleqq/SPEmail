@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FF3123FB1E9DC427003BE073"
-               BuildableName = "project.app"
-               BlueprintName = "project"
-               ReferencedContainer = "container:project.xcodeproj">
+               BlueprintIdentifier = "FF31243E1E9DD137003BE073"
+               BuildableName = "SPEmail.app"
+               BlueprintName = "SPEmail"
+               ReferencedContainer = "container:SPEmail.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FF3124141E9DC427003BE073"
-               BuildableName = "projectTests.xctest"
-               BlueprintName = "projectTests"
-               ReferencedContainer = "container:project.xcodeproj">
+               BlueprintIdentifier = "FF3124571E9DD137003BE073"
+               BuildableName = "SPEmailTests.xctest"
+               BlueprintName = "SPEmailTests"
+               ReferencedContainer = "container:SPEmail.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FF31241F1E9DC427003BE073"
-               BuildableName = "projectUITests.xctest"
-               BlueprintName = "projectUITests"
-               ReferencedContainer = "container:project.xcodeproj">
+               BlueprintIdentifier = "FF3124621E9DD137003BE073"
+               BuildableName = "SPEmailUITests.xctest"
+               BlueprintName = "SPEmailUITests"
+               ReferencedContainer = "container:SPEmail.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FF3123FB1E9DC427003BE073"
-            BuildableName = "project.app"
-            BlueprintName = "project"
-            ReferencedContainer = "container:project.xcodeproj">
+            BlueprintIdentifier = "FF31243E1E9DD137003BE073"
+            BuildableName = "SPEmail.app"
+            BlueprintName = "SPEmail"
+            ReferencedContainer = "container:SPEmail.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FF3123FB1E9DC427003BE073"
-            BuildableName = "project.app"
-            BlueprintName = "project"
-            ReferencedContainer = "container:project.xcodeproj">
+            BlueprintIdentifier = "FF31243E1E9DD137003BE073"
+            BuildableName = "SPEmail.app"
+            BlueprintName = "SPEmail"
+            ReferencedContainer = "container:SPEmail.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "FF3123FB1E9DC427003BE073"
-            BuildableName = "project.app"
-            BlueprintName = "project"
-            ReferencedContainer = "container:project.xcodeproj">
+            BlueprintIdentifier = "FF31243E1E9DD137003BE073"
+            BuildableName = "SPEmail.app"
+            BlueprintName = "SPEmail"
+            ReferencedContainer = "container:SPEmail.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,6 +1,6 @@
 //
-//  projectUITests.m
-//  projectUITests
+//  SPEmailUITests.m
+//  SPEmailUITests
 //
 //  Created by ppan on 2017/4/12.
 //  Copyright © 2017年 ppan. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface projectUITests : XCTestCase
+@interface SPEmailUITests : XCTestCase
 
 @end
 
-@implementation projectUITests
+@implementation SPEmailUITests
 
 - (void)setUp {
     [super setUp];

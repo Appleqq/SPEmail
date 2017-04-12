@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>project.xcscheme</key>
+		<key>SPEmail.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>FF3123FB1E9DC427003BE073</key>
+		<key>FF31243E1E9DD137003BE073</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FF3124141E9DC427003BE073</key>
+		<key>FF3124571E9DD137003BE073</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FF31241F1E9DC427003BE073</key>
+		<key>FF3124621E9DD137003BE073</key>
 		<dict>
 			<key>primary</key>
 			<true/>
