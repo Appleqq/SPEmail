@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "5.0"
   s.frameworks   = 'Foundation', 'UIKit'
   s.source       = { :git => "https://github.com/Appleqq/SPEmail.git", :tag => "0.0.1" }
-  s.source_files  = "SPEmail/*.{h,m}"
+  s.source_files  = "SPEmail/**/*.{h,m}"
   s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
